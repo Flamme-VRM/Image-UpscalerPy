@@ -51,7 +51,7 @@ class ImageUpscalerThread(QThread):
             
             upsampler = RealESRGANer(
                 scale=model_scale,
-                model_path=f'https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/{model_name}.pth',
+                model_path=f'https://github.com/xinntao/Real-ESRGAN/releases/download/v0.3.0/{model_name}.pth',
                 dni_weight=None,
                 model=model,
                 tile=400,
