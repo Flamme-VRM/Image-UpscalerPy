@@ -2,6 +2,8 @@
 
 A PyQt6 GUI application for upscaling images using Real-ESRGAN AI models.
 
+<img width="1228" height="866" alt="image" src="https://github.com/user-attachments/assets/19e99692-768f-4f0c-9200-18510e46f269" />
+
 ## Features
 
 - 🖼️ **Drag & Drop Interface**: Simply drag image files into the app
